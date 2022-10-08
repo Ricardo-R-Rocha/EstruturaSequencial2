@@ -1,4 +1,4 @@
-# Estrutura Sequencial 1 ✅ #
+# Estrutura Sequencial 2 ✅ #
 
 ### Programação de Soluções Computacionais ###
 
